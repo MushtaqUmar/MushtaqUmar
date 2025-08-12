@@ -1,5 +1,6 @@
 # Hi — I’m Umar 👋  
-**I turn data into decisions and AI into actions.**
+**I turn data into decisions and AI into actions.** <br>
+**[LinkedIn](https://www.linkedin.com/in/hereumar/)** **||** **[Portfolio](https://mushtaqumar.github.io/JS-Personal-Portfolio/)**
 
 ---
 
@@ -8,12 +9,13 @@
 - End-to-end analytics pipelines (ETL → modeling → dashboarding)  
 - Data-driven pricing, vendor/supplier analytics, retail/wholesale use cases, Healthcare analytics, Ecommerce Analytics, Customer Behavior Analytics
 - Real-time dashboards and BI solutions
-
+- UPCOMING : Will Collaborate on ML models soon.
+  
 ---
 
 
 ## 🌱 I’m currently learning
-- Upskilling Analytics
+- Upskilling My Analytical Skills
 - Machine Learning
 - Maths Behind machine learning  (ML theory & model explainability)  
 
@@ -67,5 +69,13 @@ I love tea, stand-up comedy, watching podcasts and how tech is shaping lives and
 
 ## 🧭 Motto
 **Turn complex data into clear action and help business make better decisions backed by data**
+
+---
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MushtaqUmar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MushtaqUmar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MushtaqUmar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
