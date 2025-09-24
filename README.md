@@ -52,6 +52,7 @@ I love tea, stand-up comedy, watching podcasts and how tech is shaping lives and
 ---
 
 ## 🏆 Selected achievements & certifications
+- **Supervised Machine Learning: Regression and Classification** – By DeepLearning.AI & Stanford University (Coursera) — *([Credentials](https://drive.google.com/file/d/1N1ZPwkNFLeeVU_6yAFPamIGXiUWzC4b0/view?usp=sharing))*
 - **Certified in Data Analytics with Python** — IIT Roorkee (Elite + Silver Badge) — *([Credentials](https://drive.google.com/file/d/1ajjZyCO97PS-fLu6j1K0HU-9WRkGOoh7/view))*
 - **Certified in Database Systems** — IIT Madras (Top 1%, Elite + Silver Badge) — *([Credentials](https://drive.google.com/file/d/1ahi4LCNK1JDcURACf-vuXl61BBVBDH9Y/view))* 
 - **Certified in Data Analytics** — By {30}DaysCoding — *([Credentials](https://drive.google.com/file/d/1ah-NoZ3y3odbu5SeeAanCMnOzRwGgQtV/view))*
