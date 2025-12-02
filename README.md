@@ -6,23 +6,23 @@
 
 ## 🤝 I’m looking to collaborate on
 - Solving business problem backed by data (Analytics)
-- End-to-end analytics pipelines (ETL → modeling → dashboarding)  
+- End-to-end analytics pipelines (ETL → EDA → modeling → dashboarding)  
 - Data-driven pricing, vendor/supplier analytics, retail/wholesale use cases, Healthcare analytics, Ecommerce Analytics, Customer Behavior Analytics
 - Real-time dashboards and BI solutions
-- UPCOMING : Will Collaborate on ML models soon.
+- Building Predictive Machine Learning Models.
+- UPCOMING : Will Collaborate MORE on ML models soon.
   
 ---
 
 
-## 🌱 I’m currently learning
-- Upskilling My Analytical Skills
-- Machine Learning
-- Maths Behind machine learning  (ML theory & model explainability)  
+## 🌱 I’m currently learning (Goal: - Aspiring Data Scientist)
+- Upskilling My Analytical Skills (There is always scope to learn)
+- Machine Learning.
 
 ---
 
 ## 💬 Ask me about
-- SQL performance tuning, complex ETL, EDA, Power BI DAX patterns, Excel automation, KPI design, Dashboards
+- SQL, Python, Power BI, Excel, AI Essentials, Supervised Machine Learning. For example: SQL performance tuning, complex ETL, EDA, Cleaning, Power BI patterns, Excel, KPI design, Dashboards etc
 
 ---
 
@@ -42,6 +42,7 @@ I love tea, stand-up comedy, watching podcasts and how tech is shaping lives and
 ---
 
 ## 📂 Some Projects (high level — see repos for detail)
+- **Customer Churn Analytics - SQL | Python | Power BI** — A full-stack analytics project that analyses telecom customer data to understand drivers of churn and predict which customers are likely to churn using a Random Forest Classifier. *([Repo: link](https://github.com/MushtaqUmar/Customer-Churn-Analytics_ML-Python-SQL-Power-BI))*  
 - **Vendor Performance Analysis - Retail Inventory and Sales** — vendor Purchase/Sales/Pricing/Profitability KPIs, inventory risk, Power BI dashboards. *([Repo: link](https://github.com/MushtaqUmar/Vendor-Performance-Analysis))*  
 - **Target E-commerce Analytics (U.S. Retail Giant)** — 100K+ orders SQL ETL, Python EDA, Power BI dashboards. *([Repo: link](https://github.com/MushtaqUmar/Target-Ecommerce-Analysis))*  
 - **Credit Card Transaction Analytics** — weekly KPI pipeline, activation & delinquency analysis. *([Repo: link](https://github.com/MushtaqUmar/Credit-Card-Financial-Reports))* 
@@ -51,13 +52,16 @@ I love tea, stand-up comedy, watching podcasts and how tech is shaping lives and
 
 ---
 
-## 🏆 Selected achievements & certifications
+## 🏆 Selected certifications & achievements
 - **Supervised Machine Learning: Regression and Classification** – By DeepLearning.AI & Stanford University (Coursera) — *([Credentials](https://drive.google.com/file/d/1N1ZPwkNFLeeVU_6yAFPamIGXiUWzC4b0/view?usp=sharing))*
+- **Advanced SQL - By HackerRank** – By DeepLearning.AI & Stanford University (Coursera) — *([Credentials](https://drive.google.com/file/d/1iPjVAzT-JuVDh2g61CcqFgpWfD4v8CwJ/view))*
 - **Certified in Data Analytics with Python** — IIT Roorkee (Elite + Silver Badge) — *([Credentials](https://drive.google.com/file/d/1ajjZyCO97PS-fLu6j1K0HU-9WRkGOoh7/view))*
 - **Certified in Database Systems** — IIT Madras (Top 1%, Elite + Silver Badge) — *([Credentials](https://drive.google.com/file/d/1ahi4LCNK1JDcURACf-vuXl61BBVBDH9Y/view))* 
 - **Certified in Data Analytics** — By {30}DaysCoding — *([Credentials](https://drive.google.com/file/d/1ah-NoZ3y3odbu5SeeAanCMnOzRwGgQtV/view))*
 - **Hackathon Runner-Up** — Delhi Police (Election Management System dashboard) — *([Certificate](https://drive.google.com/file/d/1ak1L07cCpJ7z1JU-Npnt4ndNusaFhUaZ/view))*
 - Consistent academic top-performer (state scholarships & awards)
+- **State Topper (HSC):** Awarded fully funded B.Tech scholarship by Govt. of J&K for academic excellence.
+- **University Merit:** Ranked among top 10 performers through out university in my BTech journey from 2021 to 2025.
 
 ---
 
@@ -69,6 +73,6 @@ I love tea, stand-up comedy, watching podcasts and how tech is shaping lives and
 ---
 
 ## 🧭 Motto
-**Turn complex data into clear action and help business make better decisions backed by data**
+**Turn complex data into clear action (solve problems through Descriptive to Predictive Modeling) and help business make better decisions backed by data**
 
 ---
