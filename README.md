@@ -35,16 +35,17 @@ I love tea, stand-up comedy, watching podcasts and how tech is shaping lives and
 - **Languages & Analysis:** Python (Core, pandas, numpy), SQL (MySQL)
 - **BI / Visualization:** Power BI, Excel, Matplotlib/Seaborn
 - **ETL / Prep:** Power Query, Python ETL scripts, SQL pipelines, SQL-Python data cleaning 
-- **Modeling / Stats:** Hypothesis testing, feature engineering, ML Basics
-- **Tools & Dev:** Git, GitHub, Jupyter, VS Code, .pbix files, basic shell scripting  
+- **Modeling / Stats:** Statistics & Maths, Hypothesis testing, feature engineering, Supervised Machine Learning
+- **Tools & Dev:** Git, GitHub, Jupyter, VS Code, basic shell scripting  
 - **Other:** API integration (JSON), DAX, conditional formatting, data validation etc
 
 ---
 
 ## 📂 Some Projects (high level — see repos for detail)
-- **Customer Churn Analytics - SQL | Python | Power BI** — A full-stack analytics project that analyses telecom customer data to understand drivers of churn and predict which customers are likely to churn using a Random Forest Classifier. *([Repo: link](https://github.com/MushtaqUmar/Customer-Churn-Analytics_ML-Python-SQL-Power-BI))*  
-- **Vendor Performance Analysis - Retail Inventory and Sales** — vendor Purchase/Sales/Pricing/Profitability KPIs, inventory risk, Power BI dashboards. *([Repo: link](https://github.com/MushtaqUmar/Vendor-Performance-Analysis))*  
-- **Target E-commerce Analytics (U.S. Retail Giant)** — 100K+ orders SQL ETL, Python EDA, Power BI dashboards. *([Repo: link](https://github.com/MushtaqUmar/Target-Ecommerce-Analysis))*  
+- **Customer Churn Analytics - SQL | Python | Power BI** — A full-stack analytics project that analyses telecom customer data to understand drivers of churn and predict which customers are likely to churn using a Random Forest Classifier. *([Repo: link](https://github.com/MushtaqUmar/Customer-Churn-Analytics_ML-Python-SQL-Power-BI))*
+- **Vendor Performance Analysis - Retail Inventory and Sales** — A real-world data analytics case study analyzing vendor performance in the retail/wholesale sector through the complete analytics pipeline: from data ingestion to insight generation and dashboard reporting. So focused on vendor Purchase/Sales/Pricing/Profitability KPIs, inventory risk, Power BI dashboards. *([Repo: link](https://github.com/MushtaqUmar/Vendor-Performance-Analysis))*
+- **OLA Ride Sharing Analytics | SQL/MySQL, Excel, Power BI** — This data project prepares and analyses Ola ride-sharing data (July 2024) to surface operational, revenue and service-quality insights and recommend actions to improve cab & bike operations across India. *([Repo: link](https://github.com/MushtaqUmar/OLA-Ride-Sharing-Analytics-SQL-Excel-PowerBI))*  
+- **Target E-commerce Analytics (U.S. Retail Giant)** — Solved a critical visibility gap in Target’s Brazil e-commerce by unifying fragmented data, delivering actionable insights on customers, sellers, sales, products, and operations to drive strategic decisions *([Repo: link](https://github.com/MushtaqUmar/Target-Ecommerce-Analysis))*  
 - **Credit Card Transaction Analytics** — weekly KPI pipeline, activation & delinquency analysis. *([Repo: link](https://github.com/MushtaqUmar/Credit-Card-Financial-Reports))* 
 - **MGH Healthcare Analytics (Maven Analytics Competition)** — admissions, Procedures, LOS, financial KPIs (Power BI + DAX). *([Repo: link](https://github.com/MushtaqUmar/Maven-Hospital-Challenge?tab=readme-ov-file))*  
 - **Real-Time Weather & Air Quality Intelligence System — API-Driven Power BI Dashboard** — API → Power Query → DAX for multi-city live KPIs and weekly forcasting. *([Repo: link](https://github.com/MushtaqUmar/Live-Weather-Report-Power-BI-))*  
