@@ -22,7 +22,7 @@
 ---
 
 ## 💬 Ask me about
-- SQL, Python, Power BI, Excel, AI Essentials, Supervised Machine Learning, Business Problems. For example: SQL performance tuning, complex ETL, EDA, Cleaning, Power BI patterns, Excel, KPI design, Dashboards etc
+- Business Intelligence, SQL, Python, Power BI, MS Excel, AI Essentials, Supervised Machine Learning, Business Problems. For example: Give me data and ask why sales drop, best performing customers/products, SQL performance tuning, complex ETL, EDA, Cleaning, Power BI patterns, Excel, KPI design, Dashboards, Reports etc
 
 ---
 
